@@ -1,3 +1,4 @@
+# This script installs and starts Apache on the private EC2 instance.
 #!/bin/bash
 yum update -y
 yum install -y httpd
