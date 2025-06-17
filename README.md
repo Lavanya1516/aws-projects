@@ -38,7 +38,7 @@ Every project here is self-built, self-tested, and meant to reflect **real-world
 
 ## 🔗 Connect With Me
 
-- 🌐 [LinkedIn](www.linkedin.com/in/lavanya2k)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/lavanya2k/)
 - 📂 GitHub Repo: [aws-projects](https://github.com/Lavanya1516/aws-projects)
 
 ---
